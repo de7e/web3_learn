@@ -9,6 +9,7 @@ contract YEYE1 {
     function returnYeye3() public pure returns (string memory) {
         return ("Hello Iam yeye3!");
     }
+}
 
 contract YEYE2 {
     function returnYeye7() public pure returns (string memory) {
